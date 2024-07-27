@@ -1,7 +1,3 @@
-# ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png) [8rent's GitHub](https://github.com/8rentS)
-
-Hello Everyone, I'm 8rent's. My actual name is Brenton Holiday.
-
 I used to be a developer based in Portland, OR, however now I am based out of San Francisco, CA.
 
 Most of the fun of my development practices comes from the odd necessity of developing without:
