@@ -1,13 +1,37 @@
-I used to be a developer based in Portland, OR, however now I am based out of San Francisco, CA.
+![8rents icon](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png)
 
-Most of the fun of my development practices comes from the odd necessity of developing without:
+# Brenton Holiday | *8rents*
 
-1. Owning a digital device
-2. Regarding any device that I have as extremely temporary 
-3. Not having any admin rights or elevated privilege's on computers I am lucky enough to work on
+> *Used to be a developer based in Portland, OR, however now is based out of San Francisco, CA.*
 
-This is a process that I call *Ephemeral Computing*.
+---
 
-There has been many iterations of this workflow however feel free to [check out the latest / current spec]([https://github.com/8rentS/ephemeral-computing).
+## Documentation / Articles / Guides
 
-**I hope so sincerely that some unfortunate soul finds some information here that can be useful**.
+Ideas, articles and docs I've written and published on GitHub
+
+- ### [Ephemeral Computing](#)
+  How to effectively leave a digital footprint and use a sophisticated toolset without owning a digital device or treating each one in your possession as extremely temporary. 
+
+## Software / Apps
+
+- ### [CheckEdit](checkedit/)
+  CheckEdit is a node project that uses a Todo list to manage your git repository. For example, when you check off a todo item it will automatically create a commit to the repo with the line item as the commit message. When loading the repo, it will check for commits and then build the completed todo log based on existing commits. 
+
+## Websites
+
+- ###  [brenton.holiday](https://brenton.holiday/)    
+  The [brenton.holiday](#) website is a host and tutorial for building your own web services. It will handle everything from setting up a VPN to managing an XMPP server.   
+  
+  But first setting up a custom build process for GitHub Pages.
+
+## Other / Extra
+
+- ### [GitHub Media/Images Hosting Repository](/_)
+  This repository is used to host & hot link media / image files on the web
+
+## Configuration / Packages
+
+These are configuration files I use to set up my various development systems.
+
+*Nothing yet…*
