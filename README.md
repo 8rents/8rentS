@@ -20,15 +20,18 @@ Ideas, articles and docs I've written and published on GitHub
 
 ## Websites
 
-- ###  [brenton.holiday](https://brenton.holiday/)    
-  The [brenton.holiday](#) website is a host and tutorial for building your own web services. It will handle everything from setting up a VPN to managing an XMPP server.   
+- ###  [brenton.holiday](https://github.com/8rents/brenton.holiday)
+  
+  [https://brenton.holiday/](https://brenton.holiday/)
+  
+  This website is a host and tutorial for building your own web services. It will handle everything from setting up a VPN to managing an XMPP server.   
   
   But first setting up a custom build process for GitHub Pages.
 
 ## Other / Extra
 
-- ### [GitHub Media/Images Hosting Repository](/_)
-  This repository is used to host & hot link media / image files on the web
+- ### [GitHub Media/Images Hosting Repository](https://github.com/8rents/_)
+  This repository is used to host & hot link media / image files on the webds
 
 ## Configuration / Packages
 
